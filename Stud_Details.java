@@ -11,11 +11,13 @@ public class Stud_Details {
 		System.out.println("Grade = "+grade);
 		System.out.println("Passed="+passed);
 		System.out.println("Age="+age);
-		
-		
-		
+			
 	}
-	
-	
 
 }
+
+
+Student ID = 101
+Grade = A
+Passed=true
+Age=18

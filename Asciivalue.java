@@ -20,3 +20,8 @@ public class Asciivalue {
 	}
 }
 
+ASCII CODE:65
+ASCII CODE:97
+ASCII CODE:48
+ASCII CODE:64
+

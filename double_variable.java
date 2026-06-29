@@ -11,3 +11,6 @@ public class double_variable {
 	}
 
 }
+
+Double value:10.75
+int value:10
